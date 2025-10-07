@@ -1,3 +1,5 @@
+[![Build](https://github.com/oliver-gc/slicr/actions/workflows/pypi.yml/badge.svg)](https://github.com/oliver-gc/slicr/actions/workflows/pypi.yml)
+
 # slicr
 
 Tiny Python CLI that prints "hello world".
