@@ -1,4 +1,4 @@
-[![Build](https://github.com/oliver-gc/slicr/actions/workflows/pypi.yml/badge.svg)](https://github.com/oliver-gc/slicr/actions/workflows/pypi.yml)
+[![Build](https://github.com/oliver-gc/slicr/actions/workflows/pypi.yml/badge.svg)](https://github.com/oliver-gc/slicr/actions/workflows/pypi.yml) ![GitHub Repo stars](https://img.shields.io/github/stars/oliver-gc/slicr?style=social)
 
 # slicr
 
